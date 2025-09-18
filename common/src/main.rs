@@ -25,4 +25,12 @@ fn main() {
     println!("{}", X);
     // println!("{}", Y);
 
+    // let x = [1,2,3,4,5];
+    // println!("{}", x[5]);
+
+    let mut x:u8 = 240;
+    x = x+20;
+    println!("{}", x);
+
+
 }
